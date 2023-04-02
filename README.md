@@ -8,7 +8,7 @@ The series of files included in this repository are for _Economic Downturns and 
 
 
 <details>
-<summary>**Code:** Contains Jupter Notebooks for this project.</summary>
+<summary> Code: Contains Jupter Notebooks for this project.</summary>
   <p> Notebooks are written in the format: 1680.P1.draft_name.ipynb.</p>
   <p> Only 1680.P1.D1 contains national level data. </p>
   <p> No FRED code will run without personal API key. Please visit FRED to obtain a key. https://fred.stlouisfed.org/</p>
