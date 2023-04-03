@@ -23,7 +23,7 @@ The series of files included in this repository are for _Economic Downturns and 
 </details>
 
 <details>
-<summary> Figures & Writeup: Contains figures + write up for final version.</summary>
+<summary> Used Graphs: Contains figures + write up for final version.</summary>
 <p> Contains figures used. Please refer to the archive for misc. other figures.</p>
 </details>
 
