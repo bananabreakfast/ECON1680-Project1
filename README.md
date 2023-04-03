@@ -16,10 +16,10 @@ The series of files included in this repository are for _Economic Downturns and 
 </details>
 
 <details>
-<summary> Data: Selected data downloaded from IPUMS.</summary>
+<summary> Data: NYC_large.zip</summary>
 <p> IPUMS national data remians compressed. To avoid crashing your machine, please open any uncompressed '.gz' files with caution.</p>
 <p> NYC data is stored as 'nyc_large.csv'.</p>
-<p> Variable explainations from IPUMS have been attached as PDF. Please note that used data has been furthered cleaned and processed. Refer to Jupyter files for dictionary mapping, etc.</p>
+<p> Other IPUMS data is too large to upload to GitHub</p>
 </details>
 
 <details>
